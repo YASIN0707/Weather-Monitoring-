@@ -27,7 +27,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://weather-monitoring-53vj.vercel.app) :point_left:
+[Live Demo link](https://weather-monitoring-ouf7.vercel.app/?vercelToolbarCode=EEJquX2Y11yjndi) :point_left:
 
 ## Getting Started
 - Follow the live demo link and enjoy the site.
