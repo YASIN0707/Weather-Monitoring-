@@ -61,9 +61,7 @@ Clone the repository unto your local machine cd to the folder.
 Give a ⭐️ if you like this project!
 
 
-## 📝 License
 
-This project is [MIT](lic.url) licensed.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
