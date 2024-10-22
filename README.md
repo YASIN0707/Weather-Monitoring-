@@ -63,19 +63,3 @@ Give a ⭐️ if you like this project!
 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/javitocor/Weather-App-JS.svg?style=flat-square
-[contributors-url]: https://github.com/javitocor/Weather-App-JS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/javitocor/Weather-App-JS.svg?style=flat-square
-[forks-url]: https://github.com/javitocor/Weather-App-JS/network/members
-[stars-shield]: https://img.shields.io/github/stars/javitocor/Weather-App-JS.svg?style=flat-square
-[stars-url]: https://github.com/javitocor/Weather-App-JS/stargazers
-[issues-shield]: https://img.shields.io/github/issues/javitocor/Weather-App-JS.svg?style=flat-square
-[issues-url]: https://github.com/javitocor/Weather-App-JS/issues
-"# Weather--Monitoring" 
-"# Weather-Monitoring-" 
